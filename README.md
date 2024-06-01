@@ -27,9 +27,6 @@
 <br/>
 <p align="center">
     <img src="https://github-readme-stats.vercel.app/api/top-langs?username=wiytiszen-m&show_icons=true&locale=en&layout=compact" alt="wiytiszen-m" height="195" style="margin-right: 10px;" />
-    <img src="https://github-readme-stats.vercel.app/api?username=wiytiszen-m&show_icons=true&locale=en" alt="wiytiszen-m" height="195" />
-</p>
-<p align="center">
-    <img src="https://github-readme-streak-stats.herokuapp.com/?user=wiytiszen-m&" alt="wiytiszen-m" />
+<img src="https://github-readme-streak-stats.herokuapp.com/?user=wiytiszen-m&" alt="wiytiszen-m" height="195"/>   
 </p>
 
