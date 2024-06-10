@@ -4,7 +4,7 @@
 
 - 🔭 I’m currently working on **Eleks**
 
-- 🌱 I’m currently learning **Next.js**
+- 🌱 I’m currently learning **Next.js & Astro.js**
 
 - 💬 Ask me about **Js, Ts, React.js**
 
