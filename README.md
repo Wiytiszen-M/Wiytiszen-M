@@ -1,6 +1,11 @@
 [![MasterHead](https://getflywheel.com/layout/wp-content/uploads/2021/07/The_Best_Java_Script_Libraries_1800x500-1-1800x500-1.jpeg)](https://github.com/Wiytiszen-M)
 <h1 align="center">Hi 👋, I'm Martin</h1>
 <h3 align="center">I'm a quite restless software developer - focused on frontend</h3>
+<p align="center">
+    <img src="https://github-readme-streak-stats.herokuapp.com/?user=wiytiszen-m&" alt="wiytiszen-m" height="195"/>   
+</p>
+
+<br/>
 
 - 🔭 I’m currently working on **Eleks**
 
@@ -27,6 +32,5 @@
 <br/>
 <p align="center">
     <img src="https://github-readme-stats.vercel.app/api/top-langs?username=wiytiszen-m&show_icons=true&locale=en&layout=compact" alt="wiytiszen-m" height="195" style="margin-right: 10px;" />
-    <img src="https://github-readme-streak-stats.herokuapp.com/?user=wiytiszen-m&" alt="wiytiszen-m" height="195"/>   
 </p>
 
