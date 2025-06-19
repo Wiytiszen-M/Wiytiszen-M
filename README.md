@@ -7,17 +7,11 @@
 
 <br/>
 
-- 🔭 I’m currently working on **Eleks**
-
-- 🌱 I’m currently learning **Next.js & Astro.js**
-
-- 💬 Ask me about **Js, Ts, React.js**
-
-- 📫 How to reach me **martinwiytiszen@gmail.com**
-
-- ⚡ Another things about me **In addition to programming, I like to travel, surf, read and good coffee. ☕💪🧠**
-
-
+- 🚀 Currently building **Caripa Studio**, a design & tech lab focused on brand identity and web products.
+- 🧠 Learning & experimenting with **Next.js, Astro, AI workflows and Product Strategy**.
+- 💬 Let’s talk about **TypeScript, React, scalable UI, consulting, and growth-focused tech**.
+- 📫 Reach me at **martinwiytiszen@gmail.com**
+- 🌊 Also: I surf, run, swim, travel, read a ton of books and share ideas around tech, mindset and freedom. ☕🌍💡
 
 <br/>
 <br/>
