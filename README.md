@@ -2,7 +2,7 @@
 <h1 align="center">Hi 👋, I'm Martin</h1>
 <h3 align="center">I'm a quite restless software developer - focused on frontend</h3>
 <p align="center">
-    <img src="https://github-readme-streak-stats.herokuapp.com/?user=wiytiszen-m&" alt="wiytiszen-m" height="195"/>   
+  <img src="https://streak-stats.demolab.com?user=wiytiszen-m" height="195"/>
 </p>
 
 <br/>
