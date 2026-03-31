@@ -1,7 +1,7 @@
 [![MasterHead](https://getflywheel.com/layout/wp-content/uploads/2021/07/The_Best_Java_Script_Libraries_1800x500-1-1800x500-1.jpeg)](https://github.com/Wiytiszen-M)
 <h1 align="center">Hi 👋, I'm Martin</h1>
 <h3 align="center">I'm a quite restless software developer - focused on frontend</h3>
-[![GitHub Streak](https://streak-stats.demolab.com?user=)](https://git.io/streak-stats)
+[![GitHub Streak](https://streak-stats.demolab.com?user=Wiytiszen-M)](https://git.io/streak-stats)
 
 <br/>
 
